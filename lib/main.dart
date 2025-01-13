@@ -20,7 +20,7 @@ class HelloWorldApp extends StatelessWidget {
         ),
         body: Center(
           child: Text(
-            'Hello malithsdfghjkl',
+            'malith',
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
         ),
